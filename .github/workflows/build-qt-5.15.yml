@@ -52,7 +52,7 @@ jobs:
           compression-level: 9
 
   Build_x86:
-    runs-on: windows-2019
+    runs-on: windows-2022
 
     steps:
       - name: Checkout code
